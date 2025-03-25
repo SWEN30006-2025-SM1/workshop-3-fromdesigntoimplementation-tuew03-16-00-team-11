@@ -6,6 +6,7 @@ class Submission {
 
     //test1222
     //second testgit
+    private int
 
     public File[] includedFiles() {
         File[] files = new File[2];
